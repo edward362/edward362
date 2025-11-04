@@ -29,14 +29,14 @@
 
 | Category | Description |
 |-----------|-------------|
-| **Programming** | **Python**, **C++**, and **Pine Script** for algorithmic trading and data-driven modeling. |
-| **Machine Learning / Deep Learning** | Model training/evaluation, gradient-based optimization, and NN implementation (FFN, CNNs) in Python. |
-| **Software Engineering** | Object-oriented design, design patterns, and software architecture for modular, maintainable systems. |
-| **Mathematical Modeling** | Probability, stochastic processes, and optimization applied to engineering and markets. |
-| **Documentation** | **LaTeX** for technical/academic writing. |
+| **Programming** | Proficient in **Python**, **C++**, and **Pine Script** for algorithmic trading, data processing, and indicator development. |
+| **Financial Modeling** | Skilled in **Excel** for processing financial statements and performing **valuation models** such as DCF, DDM, and **trading multiple analysis**. |
+| **Machine Learning / Deep Learning** | Experience building and evaluating models for prediction and pattern recognition tasks in **Python**. |
+| **Software Engineering** | Strong understanding of **object-oriented programming**, **design patterns**, and **software architecture** for maintainable systems. |
+| **Documentation** | Advanced proficiency in **LaTeX** for technical and academic writing. |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pinescript,git,linux,latex&perline=8" alt="skill icons"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,pinescript,latex,excel&perline=5" alt="skill icons"/>
 </p>
 
 ---
