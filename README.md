@@ -114,18 +114,6 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 </div>
 
-
-
-## 📊 Activity & Fun
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edward362&radius=8&area=true&hide_border=true&theme=github-dark" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/edward362/edward362/output/snake.svg" alt="snake animation"/>
-</p>
-
 ---
 
 ## 🤝 Let’s Connect
