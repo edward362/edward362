@@ -1,6 +1,11 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HEADER (animated typing line below) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:004080&height=220&section=header&text=Edward%20Bauduin&fontColor=ffffff&fontSize=55&desc=Aspiring%20Proprietary%20Trader%20%7C%20Engineer%20in%20Training%20@%20Ecole%20des%20Ponts&descAlignY=65" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:004080&height=220&section=header&text=Edward%20Bauduin&fontColor=ffffff&fontSize=55&desc=Aspiring%20Proprietary%20Trader%20%7C%20Engineer%20@%20École%20des%20Ponts&descAlignY=65" alt="banner"/>
+</p>
+
+<p align="center">
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Futures+scalper+%E2%80%94+short-term+order+flow+imbalances;Python+%26+C%2B%2B+%E2%80%94+ML%2FDL+and+software+engineering;École+des+Ponts+ParisTech+%E2%80%94+Ing%C3%A9nierie+Math%C3%A9matique+et+Informatique" alt="typing animation"/>
 </p>
 
 <!-- ================= CONTACT ================= -->
@@ -17,7 +22,7 @@
 🎓 2nd-year **engineering student** at **École des Ponts ParisTech**  
 💻 Major: **Ingénierie Mathématique et Informatique (Mathematical and Computer Engineering)**  
 📈 Passionate about **financial markets**, **price action**, and **trading psychology**  
-🧠 Aspiring **proprietary trader** with a focus on **futures scalping** and **short-term order flow strategies**
+🧠 Aspiring **proprietary trader** with a focus on **futures scalping**
 
 ---
 
@@ -30,6 +35,11 @@
 | **Software Engineering** | Knowledge of **object-oriented programming**, **design patterns**, and **software architecture principles** for building maintainable and modular systems. |
 | **Mathematical Modeling** | Solid understanding of **probability theory**, **stochastic processes**, and **optimization methods** applied to data-driven systems. |
 | **Documentation** | Proficient in **LaTeX** for technical writing, reports, and scientific documentation. |
+
+<!-- Animated skill icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,latex,git,linux&perline=8" alt="skill icons"/>
+</p>
 
 ---
 
@@ -55,6 +65,20 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 > I organize finance events with trading desks and banks such as Société Générale, Natixis CIB, Squarepoint Capital, and CIC Market Solutions.
 
 📊 Outside of school, I’m an **active futures scalper**, focusing on **short-term order flow imbalances**, price dynamics, and liquidity behavior.
+
+---
+
+## 📊 Activity & Fun
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdwardBauduin&radius=8&area=true&hide_border=true&theme=github-dark" alt="activity graph"/>
+</p>
+
+<!-- Snake animation over contribution grid -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EdwardBauduin/EdwardBauduin/output/snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
