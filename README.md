@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=700&repeat=true&lines=Futures+scalper+—+order+flow+imbalances;Python+%26+C%2B%2B;Ecole+des+Ponts+ParisTech&_v=1" alt="typing animation"/>
+  <img src="./assets/typing.svg" alt="typing animation"/>
 </p>
-
 
 <!-- ================= CONTACT ================= -->
 <p align="center">
