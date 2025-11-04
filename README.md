@@ -30,16 +30,19 @@
 | Category | Description |
 |-----------|-------------|
 | **Programming** | Proficient in **Python**, **C++**, and **Pine Script** for algorithmic trading, data processing, and indicator development. |
-| **Financial Modeling** | Skilled in **Excel** for processing financial statements and performing **valuation models** such as DCF, DDM, and **trading multiple analysis**. |
+| **Financial Modeling** | Skilled in **Excel** for processing financial statements and performing **valuation models** such as **DCF**, **DDM**, and **trading multiple analysis**. |
 | **Machine Learning / Deep Learning** | Experience building and evaluating models for prediction and pattern recognition tasks in **Python**. |
 | **Software Engineering** | Strong understanding of **object-oriented programming**, **design patterns**, and **software architecture** for maintainable systems. |
 | **Documentation** | Advanced proficiency in **LaTeX** for technical and academic writing. |
 
 <p align="center">
-  <!-- Icons -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,latex,excel&perline=6" height="48" alt="skills"/>
-  <img src="./assets/pinescript.png?v=1" alt="Pine Script" height="48" style="margin-left:8px; vertical-align:middle;">
+  <!-- Base icons -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,latex&perline=5" height="48" alt="skills"/>
+  <!-- Custom icons -->
+  <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="44" style="margin:0 8px; vertical-align:middle;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" height="44" style="margin:0 8px; vertical-align:middle;">
 </p>
+
 
 
 ---
