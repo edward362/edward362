@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="820" height="48" viewBox="0 0 820 48" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .t { font: 700 22px "Fira Code", Consolas, monospace; fill: #e5e7eb; }
+  </style>
+
+  <!-- Background (transparent, looks good on dark) -->
+  <rect x="0" y="0" width="820" height="48" fill="none"/>
+
+  <!-- Text -->
+  <g id="line">
+    <text x="8" y="32" class="t">Futures scalper — short-term order flow imbalances</text>
+  </g>
+
+  <!-- Reveal mask to simulate typing -->
+  <clipPath id="reveal">
+    <rect id="mask" x="0" y="0" width="0" height="48">
+      <!-- Increase width to reveal text, then reset -->
+      <animate attributeName="width"
+               values="0; 820; 820; 0"
+               keyTimes="0; 0.6; 0.8; 1"
+               dur="6s"
+               repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+
+  <!-- Blinking cursor following the mask edge -->
+  <rect id="cursor" x="8" y="10" width="10" height="24" fill="#93c5fd">
+    <animate attributeName="x"
+             values="8; 808; 808; 8"
+             keyTimes="0; 0.6; 0.8; 1"
+             dur="6s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="1;0;1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Apply the reveal to the text group -->
+  <use href="#line" clip-path="url(#reveal)"/>
+</svg>
