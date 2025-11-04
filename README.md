@@ -17,7 +17,7 @@
 🎓 2nd-year **engineering student** at **École des Ponts ParisTech**  
 💻 Major: **Ingénierie Mathématique et Informatique (Mathematical and Computer Engineering)**  
 📈 Passionate about **financial markets**, **price action**, and **trading psychology**  
-🧠 Aspiring **proprietary trader** with a focus on **futures scalping**  
+🧠 Aspiring **proprietary trader** with a focus on **futures scalping**
 
 ---
 
@@ -36,12 +36,14 @@
 
 🎓 **École des Ponts ParisTech (ENPC)**  
 Major: *Ingénierie Mathématique et Informatique*  
-Relevant coursework:  
-- Probability and Statistics  
-- Stochastic Processes  
-- Object-Oriented Programming (C++ / Qt)  
-- Software Architecture  
-- Numerical Methods and Optimization  
+
+**Main courses:**  
+Stochastic Calculus and Finance, Financial Markets, Stochastic Processes and Applications, Convex Optimization,  
+Control of Dynamical Systems, Functional Analysis, High-Dimensional Statistics, Data Analysis, Probability Theory,  
+Business Law, Advanced Programming (C++)
+
+**Elective courses:**  
+Deep Learning, Machine Learning, Software Development, Macroeconomics, Industrial Organization and Market Competition, Advanced Corporate Finance.
 
 ---
 
