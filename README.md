@@ -86,8 +86,8 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
   </h3>
 
   <p>
-    Detect order flow imbalance with simple candlestick bars using ATR expansion, volume confirmation, and body structure.  
-    Built for short-term futures scalping with auto midline and BS/SS + TP levels.
+    Detect **order flow imbalance** with **simple candlestick bars** using ATR expansion, volume confirmation, and body structure.  
+    Built for short-term **futures scalping**.
   </p>
 
   <!-- Bigger Call to Action -->
