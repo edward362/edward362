@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Futures+scalper+%E2%80%94+short-term+order+flow+imbalances;Python+%26+C%2B%2B+%E2%80%94+ML%2FDL+and+software+engineering;École+des+Ponts+ParisTech+%E2%80%94+Ing%C3%A9nierie+Math%C3%A9matique+et+Informatique" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=700&repeat=true&lines=Futures+scalper+—+order+flow+imbalances;Python+%26+C%2B%2B;Ecole+des+Ponts+ParisTech&_v=1" alt="typing animation"/>
 </p>
+
 
 <!-- ================= CONTACT ================= -->
 <p align="center">
