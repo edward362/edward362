@@ -82,7 +82,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
   </a>
 
   <h3>
-    <a href="https://github.com/edward362/pinescript-impulsive-candles">Order imbalance candles - Pine Script v6</a>
+    <a href="https://github.com/edward362/pinescript-impulsive-candles">Order Imbalance Candles – Pine Script v6</a>
   </h3>
 
   <p>
@@ -90,13 +90,10 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
     Built for short-term futures scalping with auto midline and BS/SS + TP levels.
   </p>
 
-  <!-- Action buttons -->
+  <!-- Single Call to Action -->
   <p>
     <a href="https://github.com/edward362/pinescript-impulsive-candles">
-      <img src="https://img.shields.io/badge/Repo-Open-004080?style=for-the-badge&logo=github&logoColor=white" alt="Open Repo">
-    </a>
-    <a href="https://github.com/edward362/pinescript-impulsive-candles#-overview">
-      <img src="https://img.shields.io/badge/Docs-README-0a66c2?style=for-the-badge&logo=readme&logoColor=white" alt="Docs">
+      <img src="https://img.shields.io/badge/%F0%9F%91%89%20Click%20Me!-004080?style=for-the-badge&logo=github&logoColor=white" alt="Click Me">
     </a>
   </p>
 
@@ -106,6 +103,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
   </sub>
 
 </div>
+
 
 
 ## 📊 Activity & Fun
