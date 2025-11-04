@@ -20,7 +20,7 @@
                  values="0;820;820;0"
                  keyTimes="0;0.7;0.85;1"
                  dur="2s"
-                 repeatCount="indefinite"/>
+                 repeatCount="1"/>
       </rect>
     </clipPath>
   </defs>
