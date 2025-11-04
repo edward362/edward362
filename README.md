@@ -6,7 +6,7 @@
 <!-- ================= CONTACT ================= -->
 <p align="center">
   <a href="mailto:edward.bauduin@enpc.fr"><img src="https://img.shields.io/badge/Email-edward.bauduin%40enpc.fr-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/edward-bauduin-b32095357"><img src="https://img.shields.io/badge/LinkedIn-Edward%20Bauduin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/edward-bauduin-b32095357/"><img src="https://img.shields.io/badge/LinkedIn-Edward%20Bauduin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=EdwardBauduin&style=for-the-badge&color=004080&label=Profile+Views" alt="profile views"/>
 </p>
 
@@ -17,7 +17,7 @@
 🎓 2nd-year **engineering student** at **École des Ponts ParisTech**  
 💻 Major: **Ingénierie Mathématique et Informatique (Mathematical and Computer Engineering)**  
 📈 Passionate about **financial markets**, **price action**, and **trading psychology**  
-🧠 Aspiring **proprietary trader** learning to combine technical precision with disciplined execution  
+🧠 Aspiring **proprietary trader** with a focus on **futures scalping**  
 
 ---
 
@@ -29,15 +29,6 @@
 | **Data / Analysis** | Excel |
 | **Documentation** | LaTeX |
 | **Concepts I'm learning** | Object-Oriented Programming • Basic Statistics • Market Microstructure |
-
----
-
-## 🎯 Current Focus
-
-- 📊 Writing simple **Python scripts** to simulate trade entries and exits  
-- 🧩 Deepening my **C++ fundamentals** through algorithmic exercises  
-- 🧠 Studying **risk management** and **trading psychology**  
-- 📘 Advancing through coursework in **probability, stochastic processes, and software design**
 
 ---
 
@@ -58,24 +49,15 @@ Relevant coursework:
 
 🏦 **Ponts Capital Management — Division Financial Markets**  
 *Responsable Relations Entreprises*  
-> I organize finance events with trading desks and banks such as Natixis, Société Générale, BNP Paribas, and Standard Chartered.
-
----
-
-## 📈 Goals for 2025
-
-- [ ] Pass a **proprietary trading firm evaluation** (FTMO / TakeProfitTrader)  
-- [ ] Build a **basic backtesting script in Python**  
-- [ ] Maintain a **consistent trading journal**  
-- [ ] Complete **C++ OOP mini-projects**  
-- [ ] Publish a **blog post** reflecting on trading discipline and performance  
+> I organize finance events with trading desks and banks such as Natixis, Société Générale, BNP Paribas, and Standard Chartered.  
+> I’m also an **active futures scalper**, focusing on short-term price dynamics and liquidity behavior.
 
 ---
 
 ## 🤝 Let’s Connect
 
 📩 Email: **edward.bauduin@enpc.fr**  
-💼 LinkedIn: [linkedin.com/in/edwardbauduin](https://www.linkedin.com/in/edwardbauduin)
+💼 LinkedIn: [linkedin.com/in/edward-bauduin-b32095357](https://www.linkedin.com/in/edward-bauduin-b32095357/)
 
 ---
 
