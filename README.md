@@ -6,7 +6,7 @@
 <!-- ================= CONTACT ================= -->
 <p align="center">
   <a href="mailto:edward.bauduin@enpc.fr"><img src="https://img.shields.io/badge/Email-edward.bauduin%40enpc.fr-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/edwardbauduin"><img src="https://img.shields.io/badge/LinkedIn-Edward%20Bauduin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/edward-bauduin-b32095357"><img src="https://img.shields.io/badge/LinkedIn-Edward%20Bauduin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=EdwardBauduin&style=for-the-badge&color=004080&label=Profile+Views" alt="profile views"/>
 </p>
 
