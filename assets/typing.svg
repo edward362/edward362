@@ -1,45 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="820" height="48" viewBox="0 0 820 48" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .t { 
-      font: 700 22px "Fira Code", Consolas, monospace; 
-      fill: #e5e7eb; 
-      text-anchor: middle; 
+    .t {
+      font: 700 22px "Fira Code", Consolas, monospace;
+      fill: #e5e7eb;
+      text-anchor: middle;            /* horizontal center */
+      dominant-baseline: middle;      /* vertical center */
     }
   </style>
 
-  <!-- Background (transparent for dark mode) -->
+  <!-- Transparent background (plays nice on dark/light) -->
   <rect width="820" height="48" fill="none"/>
 
-  <!-- Centered text -->
-  <g id="line">
-    <text x="410" y="32" class="t">Mathematics and Computer Science Major @ École des Ponts</text>
-  </g>
+  <!-- Reveal mask (simple left-to-right wipe) -->
+  <defs>
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="0" height="48">
+        <animate attributeName="width"
+                 values="0;820;820;0"
+                 keyTimes="0;0.7;0.85;1"
+                 dur="6s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
 
-  <!-- Reveal mask -->
-  <clipPath id="reveal">
-    <rect id="mask" x="0" y="0" width="0" height="48">
-      <animate attributeName="width"
-               values="0;820;820;0"
-               keyTimes="0;0.6;0.8;1"
-               dur="6s"
-               repeatCount="indefinite"/>
-    </rect>
-  </clipPath>
-
-  <!-- Cursor -->
-  <rect id="cursor" x="0" y="10" width="10" height="24" fill="#93c5fd">
-    <animate attributeName="x"
-             values="0;810;810;0"
-             keyTimes="0;0.6;0.8;1"
-             dur="6s"
-             repeatCount="indefinite"/>
-    <animate attributeName="opacity"
-             values="1;0;1;0;1"
-             dur="1s"
-             repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Apply the reveal to the text -->
-  <use href="#line" clip-path="url(#reveal)"/>
+  <!-- Perfectly centered text -->
+  <text x="410" y="24" class="t" clip-path="url(#reveal)">
+    Mathematics and Computer Science Major @ École des Ponts
+  </text>
 </svg>
