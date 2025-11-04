@@ -51,8 +51,9 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 🏦 **Ponts Capital Management — Division Financial Markets**  
 *Responsable Relations Entreprises*  
-> I organize finance events with trading desks and banks such as Natixis, Société Générale, BNP Paribas, and Standard Chartered.  
-> I’m also an **active futures scalper**, focusing on short-term price dynamics and liquidity behavior.
+> I organize finance events with trading desks and banks such as Société Générale, Natixis CIB, Squarepoint Capital, and CIC Market Solutions.
+
+📊 Outside of school, I’m an **active futures scalper**, focusing on **short-term order flow imbalances**, price dynamics, and liquidity behavior.
 
 ---
 
