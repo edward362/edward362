@@ -4,16 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg" alt="typing animation"/>
+  <img src="./assets/typing.svg?v=10" alt="typing animation"/>
 </p>
 
 <!-- ================= CONTACT ================= -->
 <p align="center">
-  <p align="center">
   <a href="mailto:edward.bauduin@enpc.fr"><img src="https://img.shields.io/badge/Email-edward.bauduin%40enpc.fr-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/edward-bauduin-b32095357/"><img src="https://img.shields.io/badge/LinkedIn-Edward%20Bauduin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=EdwardBauduin&style=for-the-badge&color=004080&label=Profile+Views" alt="profile views"/>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=edward362&style=for-the-badge&color=004080&label=Profile+Views" alt="profile views"/>
 </p>
 
 ---
@@ -31,15 +29,14 @@
 
 | Category | Description |
 |-----------|-------------|
-| **Programming** | Strong foundation in **Python** (data analysis, numerical methods, applied ML/DL) and **C++** (object-oriented design, memory management, and algorithmic problem solving). |
-| **Machine Learning / Deep Learning** | Experience with **model training and evaluation**, gradient descent optimization, neural network implementation (feedforward, CNNs), and performance benchmarking. |
-| **Software Engineering** | Knowledge of **object-oriented programming**, **design patterns**, and **software architecture principles** for building maintainable and modular systems. |
-| **Mathematical Modeling** | Solid understanding of **probability theory**, **stochastic processes**, and **optimization methods** applied to data-driven systems. |
-| **Documentation** | Proficient in **LaTeX** for technical writing, reports, and scientific documentation. |
+| **Programming** | **Python**, **C++**, and **Pine Script** for algorithmic trading and data-driven modeling. |
+| **Machine Learning / Deep Learning** | Model training/evaluation, gradient-based optimization, and NN implementation (FFN, CNNs) in Python. |
+| **Software Engineering** | Object-oriented design, design patterns, and software architecture for modular, maintainable systems. |
+| **Mathematical Modeling** | Probability, stochastic processes, and optimization applied to engineering and markets. |
+| **Documentation** | **LaTeX** for technical/academic writing. |
 
-<!-- Animated skill icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,latex,git,linux&perline=8" alt="skill icons"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,pinescript,git,linux,latex&perline=8" alt="skill icons"/>
 </p>
 
 ---
@@ -65,20 +62,18 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 *Responsable Relations Entreprises*  
 > I organize finance events with trading desks and banks such as Société Générale, Natixis CIB, Squarepoint Capital, and CIC Market Solutions.
 
-📊 Outside of school, I’m an **active futures scalper** during the Asian Session, capitalizing on **short-term order flow imbalances** and **low volatility moves**.
+📊 Outside of school, I’m an **active futures scalper** during the **Asian session**, capitalizing on **short-term order flow imbalances** and low-volatility moves.
 
 ---
 
 ## 📊 Activity & Fun
 
-<!-- Contribution Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edward362&radius=8&area=true&hide_border=true&theme=github-dark" alt="activity graph"/>
 </p>
 
-<!-- Snake animation over contribution grid -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EdwardBauduin/EdwardBauduin/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/edward362/edward362/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
