@@ -72,6 +72,42 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 ---
 
+## 🚀 Projects
+
+<div align="center">
+
+  <!-- Big icon linking to the repo -->
+  <a href="https://github.com/edward362/pinescript-impulsive-candles">
+    <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="120">
+  </a>
+
+  <h3>
+    <a href="https://github.com/edward362/pinescript-impulsive-candles">Impulsive Candles - Pine Script v6</a>
+  </h3>
+
+  <p>
+    Detect impulsive bars using ATR expansion, volume confirmation, and body structure.  
+    Built for short-term futures scalping with auto midline and BS/SS + TP levels.
+  </p>
+
+  <!-- Action buttons -->
+  <p>
+    <a href="https://github.com/edward362/pinescript-impulsive-candles">
+      <img src="https://img.shields.io/badge/Repo-Open-004080?style=for-the-badge&logo=github&logoColor=white" alt="Open Repo">
+    </a>
+    <a href="https://github.com/edward362/pinescript-impulsive-candles#-overview">
+      <img src="https://img.shields.io/badge/Docs-README-0a66c2?style=for-the-badge&logo=readme&logoColor=white" alt="Docs">
+    </a>
+  </p>
+
+  <!-- Quick highlights -->
+  <sub>
+    ATR filter • Volume vs volMA • Body% filter • Alert-ready • Clean visuals for non order flow traders
+  </sub>
+
+</div>
+
+
 ## 📊 Activity & Fun
 
 <p align="center">
