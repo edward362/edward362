@@ -82,11 +82,11 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
   </a>
 
   <h3>
-    <a href="https://github.com/edward362/pinescript-impulsive-candles">Impulsive Candles - Pine Script v6</a>
+    <a href="https://github.com/edward362/pinescript-impulsive-candles">Order imbalance candles - Pine Script v6</a>
   </h3>
 
   <p>
-    Detect impulsive bars using ATR expansion, volume confirmation, and body structure.  
+    Detect order flow imbalance with simple candlestick bars using ATR expansion, volume confirmation, and body structure.  
     Built for short-term futures scalping with auto midline and BS/SS + TP levels.
   </p>
 
