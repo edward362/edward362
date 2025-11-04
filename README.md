@@ -17,18 +17,19 @@
 🎓 2nd-year **engineering student** at **École des Ponts ParisTech**  
 💻 Major: **Ingénierie Mathématique et Informatique (Mathematical and Computer Engineering)**  
 📈 Passionate about **financial markets**, **price action**, and **trading psychology**  
-🧠 Aspiring **proprietary trader** with a focus on **futures scalping**
+🧠 Aspiring **proprietary trader** with a focus on **futures scalping** and **short-term order flow strategies**
 
 ---
 
 ## ⚙️ Technical Skills
 
-| Category | Tools |
-|-----------|-------|
-| **Programming** | Python • C++ |
-| **Data / Analysis** | Excel |
-| **Documentation** | LaTeX |
-| **Concepts I'm learning** | Object-Oriented Programming • Basic Statistics • Market Microstructure |
+| Category | Description |
+|-----------|-------------|
+| **Programming** | Strong foundation in **Python** (data analysis, numerical methods, applied ML/DL) and **C++** (object-oriented design, memory management, and algorithmic problem solving). |
+| **Machine Learning / Deep Learning** | Experience with **model training and evaluation**, gradient descent optimization, neural network implementation (feedforward, CNNs), and performance benchmarking. |
+| **Software Engineering** | Knowledge of **object-oriented programming**, **design patterns**, and **software architecture principles** for building maintainable and modular systems. |
+| **Mathematical Modeling** | Solid understanding of **probability theory**, **stochastic processes**, and **optimization methods** applied to data-driven systems. |
+| **Documentation** | Proficient in **LaTeX** for technical writing, reports, and scientific documentation. |
 
 ---
 
@@ -53,7 +54,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 *Responsable Relations Entreprises*  
 > I organize finance events with trading desks and banks such as Société Générale, Natixis CIB, Squarepoint Capital, and CIC Market Solutions.
 
-📊 I scalp S&P500 E-mini contracts during the Asian Session, capitalizing on **short-term order flow imbalances** and **low-volatility moves**.
+📊 Outside of school, I’m an **active futures scalper**, focusing on **short-term order flow imbalances**, price dynamics, and liquidity behavior.
 
 ---
 
