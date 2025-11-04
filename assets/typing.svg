@@ -9,18 +9,20 @@
     }
   </style>
 
-  <!-- Transparent background (plays nice on dark/light) -->
+  <!-- Transparent background -->
   <rect width="820" height="48" fill="none"/>
 
-  <!-- Reveal mask (simple left-to-right wipe) -->
+  <!-- Reveal mask (plays once, stays visible) -->
   <defs>
     <clipPath id="reveal">
       <rect x="0" y="0" width="0" height="48">
         <animate attributeName="width"
-                 values="0;820;820;0"
-                 keyTimes="0;0.7;0.85;1"
+                 values="0;820"
+                 keyTimes="0;1"
                  dur="2s"
-                 repeatCount="1"/>
+                 begin="0.5s"       <!-- optional half-second delay -->
+                 fill="freeze"      <!-- keep final frame -->
+                 repeatCount="1"/>  <!-- play once -->
       </rect>
     </clipPath>
   </defs>
