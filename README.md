@@ -72,7 +72,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdwardBauduin&radius=8&area=true&hide_border=true&theme=github-dark" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edward362&radius=8&area=true&hide_border=true&theme=github-dark" alt="activity graph"/>
 </p>
 
 <!-- Snake animation over contribution grid -->
