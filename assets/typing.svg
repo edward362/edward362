@@ -4,15 +4,13 @@
     .t {
       font: 700 22px "Fira Code", Consolas, monospace;
       fill: #e5e7eb;
-      text-anchor: middle;            /* horizontal center */
-      dominant-baseline: middle;      /* vertical center */
+      text-anchor: middle;
+      dominant-baseline: middle;
     }
   </style>
 
-  <!-- Transparent background -->
   <rect width="820" height="48" fill="none"/>
 
-  <!-- Reveal mask (plays once, stays visible) -->
   <defs>
     <clipPath id="reveal">
       <rect x="0" y="0" width="0" height="48">
@@ -20,14 +18,13 @@
                  values="0;820"
                  keyTimes="0;1"
                  dur="2s"
-                 begin="0.5s"       <!-- optional half-second delay -->
-                 fill="freeze"      <!-- keep final frame -->
-                 repeatCount="1"/>  <!-- play once -->
+                 begin="0.5s"
+                 fill="freeze"
+                 repeatCount="1"/>
       </rect>
     </clipPath>
   </defs>
 
-  <!-- Perfectly centered text -->
   <text x="410" y="24" class="t" clip-path="url(#reveal)">
     Mathematics and Computer Science Major @ École des Ponts
   </text>
