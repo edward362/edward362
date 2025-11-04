@@ -66,7 +66,16 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 🏦 **Ponts Capital Management — Division Financial Markets**  
 *Responsable Relations Entreprises*  
-> I organize finance events with trading desks and banks such as Société Générale, Natixis CIB, Squarepoint Capital, and CIC Market Solutions.
+
+> I organize quantitative finance events and networking sessions with leading banks and trading desks.
+
+<p align="center">
+  <img src="https://www.cic-marketsolutions.eu/partage/fr/CSD-CIC/MARKET-SOLUTIONS/assets/articles/actualite-ecm-2021-depuis-janvier-2021/logo-cic-market-solutions.png" alt="CIC Market Solutions" height="60" style="margin: 10px;">
+  <img src="https://societeamission.com/wp-content/uploads/2020/04/logo-societe-generale2-e1436481313147.png" alt="Société Générale" height="60" style="margin: 10px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ14ABnyIkICm2WvoO0STpGdtpkYPxoTGKNw&s" alt="Squarepoint Capital" height="60" style="margin: 10px;">
+  <img src="https://www.research.natixis.com/Site/assets/images/Q_NATIXIS_CIB_Logo.png" alt="Natixis CIB" height="60" style="margin: 10px;">
+</p>
+
 
 📊 Outside of school, I’m an **active futures scalper** during the **Asian session**, capitalizing on **short-term order flow imbalances** and low-volatility moves.
 
