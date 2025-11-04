@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-🎓 2nd-year **engineering student** at **École des Ponts ParisTech**  
+🎓 2nd-year **engineering student** at **École Nationale des Ponts et Chaussées **  
 💻 Major: **Ingénierie Mathématique et Informatique (Mathematical and Computer Engineering)**  
 📈 Passionate about **financial markets**, **price action**, and **trading psychology**  
 🧠 Aspiring **proprietary trader** with a focus on **futures scalping**
