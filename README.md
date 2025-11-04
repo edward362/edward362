@@ -53,7 +53,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 *Responsable Relations Entreprises*  
 > I organize finance events with trading desks and banks such as Société Générale, Natixis CIB, Squarepoint Capital, and CIC Market Solutions.
 
-📊 Outside of school, I’m an **active futures scalper**, focusing on **short-term order flow imbalances**, price dynamics, and liquidity behavior.
+📊 I scalp S&P500 E-mini contracts during the Asian Session, capitalizing on **short-term order flow imbalances** and **low-volatility moves**.
 
 ---
 
