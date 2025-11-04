@@ -78,7 +78,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
   <!-- Big icon linking to the repo -->
   <a href="https://github.com/edward362/pinescript-impulsive-candles">
-    <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="120">
+    <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="130">
   </a>
 
   <h3>
@@ -90,10 +90,10 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
     Built for short-term futures scalping with auto midline and BS/SS + TP levels.
   </p>
 
-  <!-- Single Call to Action -->
+  <!-- Bigger Call to Action -->
   <p>
     <a href="https://github.com/edward362/pinescript-impulsive-candles">
-      <img src="https://img.shields.io/badge/%F0%9F%91%89%20Click%20Me!-004080?style=for-the-badge&logo=github&logoColor=white" alt="Click Me">
+      <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLICK%20ME!-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="70">
     </a>
   </p>
 
