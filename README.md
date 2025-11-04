@@ -36,8 +36,11 @@
 | **Documentation** | Advanced proficiency in **LaTeX** for technical and academic writing. |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pinescript,latex,excel&perline=5" alt="skill icons"/>
+  <!-- Icons -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,latex,excel&perline=6" height="48" alt="skills"/>
+  <img src="./assets/pinescript.png?v=1" alt="Pine Script" height="48" style="margin-left:8px; vertical-align:middle;">
 </p>
+
 
 ---
 
