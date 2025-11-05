@@ -116,6 +116,44 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 ---
 
+## 🚀 Projects
+
+<div align="center">
+
+  <!-- Big icon linking to the repo -->
+  <a href="https://github.com/edward362/session_highs_and_lows_indicator">
+    <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="130">
+  </a>
+
+  <h3>
+    <a href="https://github.com/edward362/session_highs_and_lows_indicator">Session Highs & Lows – Pine Script v6</a>
+  </h3>
+
+  <p>
+    Marks each session’s **highs and lows** (Asian, London, New York) in **Eastern Time (ET)**,  
+    highlighting where liquidity is likely to cluster and where reversals or breakouts often start.  
+    Designed for **intraday bias building** and **liquidity mapping**.
+  </p>
+
+  <!-- Bigger Call to Action -->
+  <p>
+    <a href="https://github.com/edward362/session_highs_and_lows_indicator">
+      <img src="https://img.shields.io/badge/%F0%9F%91%89%20VIEW%20PROJECT-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="70">
+    </a>
+  </p>
+
+  <!-- Quick highlights -->
+  <sub>
+    Timeframe-agnostic • ET-based sessions • Liquidity logic • Historical levels • Volume profile confluence
+  </sub>
+
+</div>
+
+---
+
+
+---
+
 ## 🤝 Let’s Connect
 
 📩 Email: **edward.bauduin@enpc.fr**  
