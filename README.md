@@ -128,8 +128,8 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
   </h3>
 
   <p>
-    Marks each session’s **highs and lows** (Asian, London, New York) in **Eastern Time (ET)**,  
-    highlighting where liquidity is likely to cluster and where reversals or breakouts often start.  
+    This indicator marks each session’s **highs and lows** (Asian, London, New York) in **Eastern Time (ET)**. It makes traders' life easier by directly showing 
+    where liquidity is likely to cluster and where reversals or breakouts often start.  
     Designed for **intraday bias building** and **liquidity mapping**.
   </p>
 
