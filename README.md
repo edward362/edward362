@@ -80,77 +80,28 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 📊 Outside of school, I’m an **active futures scalper** during the **Asian session**, capitalizing on **short-term order flow imbalances** and low-volatility moves.
 
+--
+
 ## 🚀 Projects
 
-<div align="center" style="display: flex; justify-content: center; align-items: stretch; flex-wrap: wrap; gap: 40px;">
+<p align="center">
+  <a href="https://github.com/edward362/pinescript-impulsive-candles" style="text-decoration:none;">
+    <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Order Flow Imbalance Detector" width="150">
+    <br>
+    <b>Order Flow Imbalance Detector – Pine Script v6</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/edward362/session_highs_and_lows_indicator" style="text-decoration:none;">
+    <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Session Highs and Lows" width="150">
+    <br>
+    <b>Session Highs & Lows – Pine Script v6</b>
+  </a>
+</p>
 
-  <!-- Project 1 -->
-  <div style="width: 420px; background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 25px; box-shadow: 0 0 15px #00000033; text-align: center; display: flex; flex-direction: column; justify-content: space-between;">
-
-    <div>
-      <a href="https://github.com/edward362/pinescript-impulsive-candles">
-        <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="130">
-      </a>
-
-      <h3>
-        <a href="https://github.com/edward362/pinescript-impulsive-candles">Order Flow Imbalance Detector – Pine Script v6</a>
-      </h3>
-
-      <p>
-        This indicator detects order flow imbalance on a candlestick chart using ATR expansion, volume confirmation, and body structure.  
-        Built for short-term **futures scalping**.
-      </p>
-    </div>
-
-    <div>
-      <p>
-        <a href="https://github.com/edward362/pinescript-impulsive-candles">
-          <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLICK%20ME!-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="65">
-        </a>
-      </p>
-
-      <sub>
-        ATR filter • Volume vs volMA • Body% filter • Alert-ready • Clean visuals for non order flow traders
-      </sub>
-    </div>
-
-  </div>
-
-  <!-- Project 2 -->
-  <div style="width: 420px; background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 25px; box-shadow: 0 0 15px #00000033; text-align: center; display: flex; flex-direction: column; justify-content: space-between;">
-
-    <div>
-      <a href="https://github.com/edward362/session_highs_and_lows_indicator">
-        <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="130">
-      </a>
-
-      <h3>
-        <a href="https://github.com/edward362/session_highs_and_lows_indicator">Session Highs & Lows – Pine Script v6</a>
-      </h3>
-
-      <p>
-        This indicator marks each session’s **highs and lows** (Asian, London, New York) in **Eastern Time (ET)**. It makes traders' life easier by directly showing 
-        where liquidity is likely to cluster and where reversals or breakouts often start.  
-        Designed for **intraday bias building** and **liquidity mapping**.
-      </p>
-    </div>
-
-    <div>
-      <p>
-        <a href="https://github.com/edward362/session_highs_and_lows_indicator">
-          <img src="https://img.shields.io/badge/%F0%9F%91%89%20VIEW%20PROJECT-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="65">
-        </a>
-      </p>
-
-      <sub>
-        Timeframe-agnostic • ET-based sessions • Liquidity logic • Historical levels • Volume profile confluence
-      </sub>
-    </div>
-
-  </div>
-
-</div>
-
+<p align="center">
+  Detects <b>order flow imbalance</b> or marks <b>session highs & lows</b> with precision.  
+  Built for <b>liquidity mapping</b>, <b>intraday bias building</b>, and <b>short-term scalping</b>.
+</p>
 
 ---
 
