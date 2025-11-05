@@ -92,7 +92,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
   </a>
 
   <h3>
-    <a href="https://github.com/edward362/pinescript-impulsive-candles">Order Imbalance Candles – Pine Script v6</a>
+    <a href="https://github.com/edward362/pinescript-impulsive-candles">Order Flow Imbalance Detector – Pine Script v6</a>
   </h3>
 
   <p>
