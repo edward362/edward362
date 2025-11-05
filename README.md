@@ -116,8 +116,6 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 ---
 
-## 🚀 Projects
-
 <div align="center">
 
   <!-- Big icon linking to the repo -->
