@@ -145,7 +145,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 <!-- Big icon linking to the repo -->
 <a href="https://github.com/edward362/app_test">
-  <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Trading Game" height="130">
+  <img src="https://www.anabatic.com/wp-content/uploads/2025/06/pengertian-trading-saham.webp" alt="Trading Game" height="130">
 </a>
 
 <h3>
