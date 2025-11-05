@@ -88,7 +88,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 <!-- Big icon linking to the repo -->
 <a href="https://github.com/edward362/pinescript-impulsive-candles">
-  <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="130">
+  <img src="https://ninjatrader.com/NT/media/images/Screenshots/dark-volumetric.png" alt="Pine Script" height="130">
 </a>
 
 <h3>
