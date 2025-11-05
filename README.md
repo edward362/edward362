@@ -88,7 +88,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 <!-- Big icon linking to the repo -->
 <a href="https://github.com/edward362/pinescript-impulsive-candles">
-  <img src="https://ninjatrader.com/NT/media/images/Screenshots/dark-volumetric.png" alt="Pine Script" height="130">
+  <img src="https://ninjatrader.com/NT/media/images/Screenshots/dark-volumetric.png" alt="Pine Script" height="200">
 </a>
 
 <h3>
@@ -102,7 +102,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 <!-- Bigger Call to Action -->
 <p>
   <a href="https://github.com/edward362/pinescript-impulsive-candles">
-    <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLICK%20ME!-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="70">
+    <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLICK%20ME!-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="200">
   </a>
 </p>
 
@@ -117,7 +117,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 <!-- Big icon linking to the repo -->
 <a href="https://github.com/edward362/session_highs_and_lows_indicator">
-  <img src="https://piptick.com/wp-content/uploads/2022/05/piptick_ohlc_screen_1.png" alt="Pine Script" height="130">
+  <img src="https://piptick.com/wp-content/uploads/2022/05/piptick_ohlc_screen_1.png" alt="Pine Script" height="200">
 </a>
 
 <h3>
