@@ -80,11 +80,14 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 📊 Outside of school, I’m an **active futures scalper** during the **Asian session**, capitalizing on **short-term order flow imbalances** and low-volatility moves.
 
----
+--
 
 ## 🚀 Projects
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+
+  <!-- Project 1 -->
+  <div style="width: 420px; text-align: center;">
 
   <!-- Big icon linking to the repo -->
   <a href="https://github.com/edward362/pinescript-impulsive-candles">
@@ -112,11 +115,10 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
     ATR filter • Volume vs volMA • Body% filter • Alert-ready • Clean visuals for non order flow traders
   </sub>
 
-</div>
+  </div>
 
----
-
-<div align="center">
+  <!-- Project 2 -->
+  <div style="width: 420px; text-align: center;">
 
   <!-- Big icon linking to the repo -->
   <a href="https://github.com/edward362/session_highs_and_lows_indicator">
@@ -145,9 +147,12 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
     Timeframe-agnostic • ET-based sessions • Liquidity logic • Historical levels • Volume profile confluence
   </sub>
 
+  </div>
+
 </div>
 
 ---
+
 
 
 ---
