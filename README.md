@@ -131,7 +131,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 <!-- Bigger Call to Action -->
 <p>
   <a href="https://github.com/edward362/session_highs_and_lows_indicator">
-    <img src="https://img.shields.io/badge/%F0%9F%91%89%20VIEW%20PROJECT-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="70">
+    <img src="https://img.shields.io/badge/%F0%9F%91%89%20CLICK%20ME!-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="70">
   </a>
 </p>
 
