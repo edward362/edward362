@@ -117,7 +117,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 <!-- Big icon linking to the repo -->
 <a href="https://github.com/edward362/session_highs_and_lows_indicator">
-  <img src="https://framerusercontent.com/images/b10BtvaMmU4lZN0qd6bzWNAvE.png" alt="Pine Script" height="130">
+  <img src="https://piptick.com/wp-content/uploads/2022/05/piptick_ohlc_screen_1.png" alt="Pine Script" height="130">
 </a>
 
 <h3>
