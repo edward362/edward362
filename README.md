@@ -16,16 +16,16 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-🎓 2nd-year **engineering student** at **École Nationale des Ponts et Chaussées **  
-💻 Major: **Ingénierie Mathématique et Informatique (Mathematical and Computer Engineering)**  
-📈 Passionate about **financial markets**, **price action**, and **trading psychology**  
-🧠 Aspiring **proprietary trader** with a focus on **futures scalping**
+2nd-year **engineering student** at **École Nationale des Ponts et Chaussées **  
+Major: **Ingénierie Mathématique et Informatique (Mathematical and Computer Engineering)**  
+Passionate about **financial markets**, **price action**, and **trading psychology**  
+Aspiring **proprietary trader** with a focus on **futures scalping**
 
 ---
 
-## ⚙️ Technical Skills
+## Technical Skills
 
 | Category | Description |
 |-----------|-------------|
@@ -47,9 +47,9 @@
 
 ---
 
-## 🧠 Education
+## Education
 
-🎓 **École des Ponts ParisTech (ENPC)**  
+**École des Ponts ParisTech (ENPC)**  
 Major: *Ingénierie Mathématique et Informatique*  
 
 **Main courses:**  
@@ -62,9 +62,9 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 ---
 
-## 💼 Activities
+## Activities
 
-🏦 **Ponts Capital Management — Division Financial Markets**  
+**Ponts Capital Management — Division Financial Markets**  
 *Responsable Relations Entreprises*  
 
 > I organize quantitative finance events and networking sessions with leading banks and trading desks.
@@ -78,11 +78,11 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 
 
-📊 Outside of school, I’m an **active futures scalper** during the **Asian session**, capitalizing on **short-term order flow imbalances** and low-volatility moves.
+Outside of school, I’m an **active futures scalper** during the **Asian session**, capitalizing on **short-term order flow imbalances** and low-volatility moves.
 
 --
 
-## 🚀 Projects
+## Projects
 
 <div align="center">
 
@@ -173,7 +173,7 @@ Deep Learning, Machine Learning, Software Development, Macroeconomics, Industria
 
 
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 📩 Email: **edward.bauduin@enpc.fr**  
 💼 LinkedIn: [linkedin.com/in/edward-bauduin-b32095357](https://www.linkedin.com/in/edward-bauduin-b32095357/)
