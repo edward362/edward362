@@ -1,6 +1,6 @@
 <!-- ================= HEADER (animated typing line below) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:004080&height=220&section=header&text=Edward%20Bauduin&fontColor=ffffff&fontSize=55&desc=Aspiring%20Proprietary%20Trader&descAlignY=65" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:004080&height=220&section=header&text=Edward%20Bauduin&fontColor=ffffff&fontSize=55&desc=Aspiring%20Trader&descAlignY=65" alt="banner"/>
 </p>
 
 <p align="center">
