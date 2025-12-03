@@ -84,6 +84,37 @@ Outside of school, I’m an **active futures scalper** during the **Asian sessio
 
 ## Projects
 
+---
+<div align="center">
+
+<!-- Big icon linking to the repo -->
+<a href="https://github.com/Omartfz/TDLOG-Project.git">
+  <img src="https://www.anabatic.com/wp-content/uploads/2025/06/pengertian-trading-saham.webp" alt="Trading Game" height="130">
+</a>
+
+<h3>
+  <a href="https://github.com/Omartfz/TDLOG-Project.git">Multiplayer Trading Game – FastAPI & WebSockets</a>
+</h3>
+
+<p>
+  A <b>real-time multiplayer trading game</b> built with <b>Python</b> and <b>JavaScript</b>, allowing players to discover how markets work through live price movements and interactive trading.  
+  Designed as an <b>educational tool</b> to demonstrate market dynamics, volatility, and portfolio evolution in real time.
+</p>
+
+<!-- Bigger Call to Action -->
+<p>
+  <a href="https://github.com/Omartfz/TDLOG-Project.git">
+    <img src="https://img.shields.io/badge/%F0%9F%91%89%20TRY%20THE%20GAME!-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="70">
+  </a>
+</p>
+
+<!-- Quick highlights -->
+<sub> Real-time market simulation • Multiplayer lobbies • Live asset trading • Educational gameplay </sub>
+
+</div>
+
+---
+
 <div align="center">
 
 <!-- Big icon linking to the repo -->
@@ -139,37 +170,6 @@ Outside of school, I’m an **active futures scalper** during the **Asian sessio
 <sub> Timeframe-agnostic • ET-based sessions • Liquidity logic • Historical levels • Volume profile confluence </sub>
 
 </div>
-
----
-<div align="center">
-
-<!-- Big icon linking to the repo -->
-<a href="https://github.com/Omartfz/TDLOG-Project.git">
-  <img src="https://www.anabatic.com/wp-content/uploads/2025/06/pengertian-trading-saham.webp" alt="Trading Game" height="130">
-</a>
-
-<h3>
-  <a href="https://github.com/Omartfz/TDLOG-Project.git">Multiplayer Trading Game – FastAPI & WebSockets</a>
-</h3>
-
-<p>
-  A <b>real-time multiplayer trading game</b> built with <b>Python</b> and <b>JavaScript</b>, allowing players to discover how markets work through live price movements and interactive trading.  
-  Designed as an <b>educational tool</b> to demonstrate market dynamics, volatility, and portfolio evolution in real time.
-</p>
-
-<!-- Bigger Call to Action -->
-<p>
-  <a href="https://github.com/Omartfz/TDLOG-Project.git">
-    <img src="https://img.shields.io/badge/%F0%9F%91%89%20TRY%20THE%20GAME!-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="70">
-  </a>
-</p>
-
-<!-- Quick highlights -->
-<sub> Real-time market simulation • Multiplayer lobbies • Live asset trading • Educational gameplay </sub>
-
-</div>
-
----
 
 
 
