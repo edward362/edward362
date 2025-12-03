@@ -149,7 +149,7 @@ Outside of school, I’m an **active futures scalper** during the **Asian sessio
 </a>
 
 <h3>
-  <a href="https://github.com/edward362/app_test">Multiplayer Trading Game – FastAPI & WebSockets</a>
+  <a href="https://github.com/Omartfz/TDLOG-Project.git">Multiplayer Trading Game – FastAPI & WebSockets</a>
 </h3>
 
 <p>
@@ -159,7 +159,7 @@ Outside of school, I’m an **active futures scalper** during the **Asian sessio
 
 <!-- Bigger Call to Action -->
 <p>
-  <a href="https://github.com/edward362/app_test">
+  <a href="https://github.com/Omartfz/TDLOG-Project.git">
     <img src="https://img.shields.io/badge/%F0%9F%91%89%20TRY%20THE%20GAME!-004080?style=for-the-badge&logo=github&logoColor=white&labelColor=00264D&color=004080" alt="Click Me" height="70">
   </a>
 </p>
