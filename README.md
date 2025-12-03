@@ -153,7 +153,7 @@ Outside of school, I’m an **active futures scalper** during the **Asian sessio
 </h3>
 
 <p>
-  A <b>real-time multiplayer trading simulation</b> built with <b>FastAPI</b> and <b>JavaScript</b>, allowing players to discover how markets work through live price movements and interactive trading.  
+  A <b>real-time multiplayer trading game</b> built with <b>Python</b> and <b>JavaScript</b>, allowing players to discover how markets work through live price movements and interactive trading.  
   Designed as an <b>educational tool</b> to demonstrate market dynamics, volatility, and portfolio evolution in real time.
 </p>
 
