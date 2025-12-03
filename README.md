@@ -144,7 +144,7 @@ Outside of school, I’m an **active futures scalper** during the **Asian sessio
 <div align="center">
 
 <!-- Big icon linking to the repo -->
-<a href="https://github.com/edward362/app_test">
+<a href="https://github.com/Omartfz/TDLOG-Project.git">
   <img src="https://www.anabatic.com/wp-content/uploads/2025/06/pengertian-trading-saham.webp" alt="Trading Game" height="130">
 </a>
 
