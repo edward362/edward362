@@ -29,7 +29,7 @@ Aspiring **proprietary trader** with a focus on **futures scalping**
 
 | Category | Description |
 |-----------|-------------|
-| **Programming** | Proficient in **Python**, **C++**, and **Pine Script** for algorithmic trading, data processing, and indicator development. |
+| **Programming** | Proficient in **Python**, **C++**, **JavaScript**, **HTML**, **CSS**, **SQL** |
 | **Financial Modeling** | Skilled in **Excel** for processing financial statements and performing **valuation models** such as **DCF**, **DDM**, and **trading multiple analysis**. |
 | **Machine Learning / Deep Learning** | Experience building and evaluating models for prediction and pattern recognition tasks in **Python**. |
 | **Software Engineering** | Strong understanding of **object-oriented programming**, **design patterns**, and **software architecture** for maintainable systems. |
